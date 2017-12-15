@@ -4,12 +4,12 @@
 
 ## github 大厂（点击名字即可进入对应github）
 
-| [Google](https://github.com/google) | 2                                      | 3                |4               | 5               |        6     |         7           |           8              |          9         |
+| [Google](https://github.com/google) | [Apple](https://github.com/apple) | [Facebook](https://github.com/facebook)  |[Twitter](https://github.com/twitter)    | [Microsoft](https://github.com/microsoft)          |  [Square](https://github.com/square)   |   [Intel](https://github.com/intel)      |      [IBM](https://github.com/ibm)          |       [Tencent](https://github.com/tencent)     |
 | ----| ---------------------------------------- | ------------------- | ---------------- |---------------- |---------------- |---------------- |---------------- |---------------- |
-| [Google](https://github.com/google) | [Apple](https://github.com/apple) | [Facebook](https://github.com/facebook) | [Twitter](https://github.com/twitter) | [Microsoft](https://github.com/microsoft) |
-| [Square](https://github.com/square) | [Intel](https://github.com/intel) | [IBM](https://github.com/ibm) | [Tencent](https://github.com/tencent) | [Alibaba](https://github.com/alibaba) |
-| -- | -- | -- | --  | -- |
-| -- | -- | -- | -- | --  |
+| [Alibaba](https://github.com/alibaba) |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
 
 
 ## github 个人
