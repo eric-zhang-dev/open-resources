@@ -11,12 +11,12 @@
 
 ## github 个人
 
-| 序号 | 标签名                                      | 发布版本                |说明               | 链接               |
+| 序号 | 作者                                      | github地址                |博客地址               | 描述               |
 | ----| ---------------------------------------- | ------------------- | ---------------- |---------------- |
-| 1 | [v2.0.2](https://gitee.com//CaoDHedward/KeShiBan/tree/V2.0.2/) | v2.0.2 (20160816) | 开发中 |[更新说明](https://gitee.com//CaoDHedward/KeShiBan/blob/V2.0.2/README.md)|
-| 2 | [v2.0.1](https://gitee.com//CaoDHedward/KeShiBan/tree/V2.0.1/) | v2.0.1 (20160716) | 最新稳定版 |[更新说明](https://gitee.com//CaoDHedward/KeShiBan/blob/V2.0.1/README.md)|
-| 3 | [v2.0.0](https://gitee.com//CaoDHedward/KeShiBan/tree/V2.0.0/) | v1.0.0 (20160116) | 迁移到AndroidStudio  | -- |
-| 4 | [V1.0.0](https://gitee.com//CaoDHedward/KeShiBan/tree/V1.0.0/) | v1.0.0 (20161226) | Eclipse可用 | --  |
+| 1 | Jake Wharton | https://github.com/JakeWharton | http://jakewharton.com/ |For Android|
+| 2 | -- | -- | -- | -- |
+| 3 | -- | -- | -- | -- |
+| 4 | -- | -- | -- | -- |
 
 
 
