@@ -15,8 +15,8 @@
 
 | 序号 | 标签名                                      | 发布版本                |说明               | 链接               |
 | ----| ---------------------------------------- | ------------------- | ---------------- |---------------- |
-| [google](https://github.com/google) | [apple](https://github.com/apple) | v2.0.2 (20160816) | 开发中 |[更新说明](https://gitee.com//CaoDHedward/KeShiBan/blob/V2.0.2/README.md)|
-| 2 | [v2.0.1](https://gitee.com//CaoDHedward/KeShiBan/tree/V2.0.1/) | v2.0.1 (20160716) | 最新稳定版 |[更新说明](https://gitee.com//CaoDHedward/KeShiBan/blob/V2.0.1/README.md)|
+| [google](https://github.com/google) | [apple](https://github.com/apple) | [apple](https://github.com/apple) | [apple](https://github.com/apple) | [apple](https://github.com/apple) |
+| [apple](https://github.com/apple) | [apple](https://github.com/apple) | [apple](https://github.com/apple) | [apple](https://github.com/apple) | [apple](https://github.com/apple) |
 | 3 | [v2.0.0](https://gitee.com//CaoDHedward/KeShiBan/tree/V2.0.0/) | v1.0.0 (20160116) | 迁移到AndroidStudio  | -- |
 | 4 | [V1.0.0](https://gitee.com//CaoDHedward/KeShiBan/tree/V1.0.0/) | v1.0.0 (20161226) | Eclipse可用 | --  |
 
