@@ -4,11 +4,11 @@
 
 ## github 大厂（点击名字即可进入对应github）
 
-| 序号 | 标签名                                      | 发布版本                |说明               | 链接               |
+
 | ----| ---------------------------------------- | ------------------- | ---------------- |---------------- |
 | [google](https://github.com/google) | [apple](https://github.com/apple) | [facebook](https://github.com/facebook) | [twitter](https://github.com/twitter) | [microsoft](https://github.com/microsoft) |
 | [square](https://github.com/square) | [intel](https://github.com/intel) | [ibm](https://github.com/ibm) | [tencent](https://github.com/tencent) | [alibaba](https://github.com/alibaba) |
-| [](https://github.com/tencent) | -- | -- | --  | -- |
+| -- | -- | -- | --  | -- |
 | -- | -- | -- | -- | --  |
 
 
