@@ -17,20 +17,20 @@
 | 2 | Chris Banes | https://github.com/chrisbanes | https://chris.banes.me/ | -- |
 | 3 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
 | 4 | Sergey Tarasevich | https://github.com/nostra13 | -- | -- |
-| 3 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
-| 3 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
-| 3 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
-| 3 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
-| 3 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
-| 3 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
-| 3 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
-| 3 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
-| 3 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
-| 3 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
-| 3 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
-| 3 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
-| 3 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
-| 3 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
+| 5 | Koushik Dutta | https://github.com/koush | http://koush.com/ | -- |
+| 6 | Simon Vig  | https://github.com/SimonVT | http://simonvt.net/ | -- |
+| 7 | Cyril Mottier | https://github.com/cyrilmottier | https://cyrilmottier.com/ | -- |
+| 8 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
+| 9 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
+| 10 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
+| 11 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
+| 12 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
+| 13 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
+| 14 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
+| 15 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
+| 16 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
+| 17 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
+| 18 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
 
 
 
