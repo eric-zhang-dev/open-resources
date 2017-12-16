@@ -31,6 +31,10 @@
 | 16 | Alessandro Crugnola | https://github.com/sephiroth74 | http://blog.sephiroth.it/ | -- |
 | 17 | Romain Guy | https://github.com/romainguy | -- | -- |
 | 18 | Kevin Sawicki | https://github.com/kevinsawicki | -- | -- |
+| 19 | Christopher Jenkins | https://github.com/chrisjenx | https://about.me/chris.jenkins | -- |
+| 10 | JPARDOGO | https://github.com/jpardogo | http://www.jpardogo.com/ | -- |
+| 21 | Matthias Käppler | https://github.com/mttkay | http://mttkay.github.io/ | -- |
+| 22 | Daniel Lew | https://github.com/dlew | -- | -- |
 
 
 
