@@ -20,17 +20,17 @@
 | 5 | Koushik Dutta | https://github.com/koush | http://koush.com/ | -- |
 | 6 | Simon Vig  | https://github.com/SimonVT | http://simonvt.net/ | -- |
 | 7 | Cyril Mottier | https://github.com/cyrilmottier | https://cyrilmottier.com/ | -- |
-| 8 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
-| 9 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
-| 10 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
-| 11 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
-| 12 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
-| 13 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
-| 14 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
-| 15 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
-| 16 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
-| 17 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
-| 18 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
+| 8 | Emil Sjölander | https://github.com/emilsjolander | http://emilsjolander.se/ | -- |
+| 9 | James Smith | https://github.com/loopj | http://loopj.com/ | -- |
+| 10 | ManuelPeinado | https://github.com/ManuelPeinado | -- | -- |
+| 11 | Markus Junginger | https://github.com/greenrobot | -- | -- |
+| 12 | Jeff Gilfelt | https://github.com/jgilfelt | -- | -- |
+| 13 | Roman Nurik | https://github.com/romannurik | http://roman.nurik.net/ | -- |
+| 14 | Flavien Laurent | https://github.com/flavienlaurent | http://www.flavienlaurent.com/ | -- |
+| 15 | Gabriele Mariotti | https://github.com/gabrielemariotti | -- | -- |
+| 16 | Alessandro Crugnola | https://github.com/sephiroth74 | http://blog.sephiroth.it/ | -- |
+| 17 | Romain Guy | https://github.com/romainguy | -- | -- |
+| 18 | Kevin Sawicki | https://github.com/kevinsawicki | -- | -- |
 
 
 
