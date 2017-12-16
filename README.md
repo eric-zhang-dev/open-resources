@@ -16,7 +16,21 @@
 | 1 | Jake Wharton | https://github.com/JakeWharton | http://jakewharton.com/ |For Android|
 | 2 | Chris Banes | https://github.com/chrisbanes | https://chris.banes.me/ | -- |
 | 3 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
-| 4 | -- | -- | -- | -- |
+| 4 | Sergey Tarasevich | https://github.com/nostra13 | -- | -- |
+| 3 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
+| 3 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
+| 3 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
+| 3 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
+| 3 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
+| 3 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
+| 3 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
+| 3 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
+| 3 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
+| 3 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
+| 3 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
+| 3 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
+| 3 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
+| 3 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
 
 
 
