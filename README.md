@@ -14,8 +14,8 @@
 | 序号 | 作者                                      | github地址                |博客地址               | 描述               |
 | ----| ---------------------------------------- | ------------------- | ---------------- |---------------- |
 | 1 | Jake Wharton | https://github.com/JakeWharton | http://jakewharton.com/ |For Android|
-| 2 | -- | -- | -- | -- |
-| 3 | -- | -- | -- | -- |
+| 2 | Chris Banes | https://github.com/chrisbanes | https://chris.banes.me/ | -- |
+| 3 | Jeremy Feinstein | https://github.com/jfeinstein10 | http://jeremyfeinstein.com/ | -- |
 | 4 | -- | -- | -- | -- |
 
 
